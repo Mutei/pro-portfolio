@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pro_portfolio/Mobile_Screen/home_screen.dart';
+import 'Web_Screen/web_home_screen.dart';
 import 'responsive_screen_layout.dart';
 
 void main() {
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: "Portfolio",
       home: ResponsiveLayoutScreen(
           mobileScreenLayout: MobileScreenLayout(),
-          webScreenLayout: MobileScreenLayout()),
+          webScreenLayout: WebScreenLayout()),
     );
   }
 }
