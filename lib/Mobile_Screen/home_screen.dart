@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:pro_portfolio/colors.dart';
-import 'package:pro_portfolio/row/application_rows.dart';
-import 'package:pro_portfolio/row/container_row1.dart';
+import 'package:pro_portfolio/Mobile_Screen/row/application_rows.dart';
+import 'package:pro_portfolio/Mobile_Screen/row/container_row1.dart';
 
 import 'bottom_home_container.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({
+class MobileScreenLayout extends StatelessWidget {
+  const MobileScreenLayout({
     super.key,
   });
 

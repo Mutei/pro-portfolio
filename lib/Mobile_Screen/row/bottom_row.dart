@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pro_portfolio/profile/gmail.dart';
 import 'package:pro_portfolio/profile/phone.dart';
-import 'package:pro_portfolio/reused_button__phone_padding.dart';
+import 'package:pro_portfolio/Mobile_Screen/reused_button__phone_padding.dart';
 
-import '../profile/links.dart';
+import '../../profile/links.dart';
 import '../reused_button__bottom_padding.dart';
 
 class BottomRow extends StatelessWidget {

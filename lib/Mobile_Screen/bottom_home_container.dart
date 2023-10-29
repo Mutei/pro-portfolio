@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pro_portfolio/colors.dart';
-import 'package:pro_portfolio/row/bottom_row.dart';
+import 'package:pro_portfolio/Mobile_Screen/row/bottom_row.dart';
 
 class BottomHomePageContainer extends StatelessWidget {
   const BottomHomePageContainer({
